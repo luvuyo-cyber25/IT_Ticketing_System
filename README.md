@@ -17,35 +17,30 @@ I developed this project to solve two key problems in basic IT support workflows
    *Code and database file*
 
 2. **Main Menu**  
-   ![Main Menu](screenshots/main_menu.png)  
+   ![Main Menu](https://github.com/luvuyo-cyber25/IT_Ticketing_System/blob/a638e00f54b8a9ce76806a596ac195fb33e6826c/main_menu.jpg)  
    *The command-line interface showing available actions*
    
 3. **Creating a Ticket**  
-   ![Create Ticket](screenshots/create_ticket.png)  
+   ![Create Ticket](https://github.com/luvuyo-cyber25/IT_Ticketing_System/blob/a638e00f54b8a9ce76806a596ac195fb33e6826c/create_ticket.jpg)  
    *User input for new ticket details*
 
 4. **Viewing Tickets**  
-   ![View Tickets](screenshots/view_tickets.png)  
+   ![View Tickets](https://github.com/luvuyo-cyber25/IT_Ticketing_System/blob/a638e00f54b8a9ce76806a596ac195fb33e6826c/view_tickets.jpg)  
    *List of all tickets with IDs, titles, and statuses*
 
 5. **Updating Status**  
-   ![Update Ticket](screenshots/update_ticket.png)  
+   ![Update Ticket](https://github.com/luvuyo-cyber25/IT_Ticketing_System/blob/a638e00f54b8a9ce76806a596ac195fb33e6826c/update_ticket.jpg)  
    *Changing a ticket from "Open" to "In Progress"*
 
 6. **Deleting a Ticket**  
-   ![Update Ticket](screenshots/update_ticket.png)  
+   ![Update Ticket](https://github.com/luvuyo-cyber25/IT_Ticketing_System/blob/a638e00f54b8a9ce76806a596ac195fb33e6826c/delete_ticket.jpg)  
    *User ensures Ticket ID to delete"*
 
 7. **Database Confirmation**  
-   ![SQLite Data](screenshots/sqlite_data.png)  
+   ![SQLite Data](https://github.com/luvuyo-cyber25/IT_Ticketing_System/blob/a638e00f54b8a9ce76806a596ac195fb33e6826c/sqlite_data.jpg)  
    *SQLite database entries verifying data persistence*
 
 ## Tech Stack
 - Python 3
 - SQLite
 - Command-Line Interface (CLI)
-
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/it-ticketing-system.git
