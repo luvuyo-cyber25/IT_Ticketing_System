@@ -40,7 +40,19 @@ I developed this project to solve two key problems in basic IT support workflows
    ![SQLite Data](https://github.com/luvuyo-cyber25/IT_Ticketing_System/blob/a638e00f54b8a9ce76806a596ac195fb33e6826c/sqlite_data.jpg)  
    *SQLite database entries verifying data persistence*
 
-## Tech Stack
-- Python 3
-- SQLite
-- Command-Line Interface (CLI)
+## Technologies & Skills Gained
+### Technical Skills
+- **Python Programming**: Core application logic
+- **SQL (SQLite)**: Database management
+- **Command-Line Interface (CLI)**: User interaction
+- **Data Management**: CRUD operations
+- **DB Browser for SQLite**: Database visualization
+- **Technical Documentation**: Project documentation
+- **Record Keeping**: Ticket logging system
+- **Troubleshooting**: Debugging and testing
+
+### Soft Skills Developed
+- Problem-Solving
+- Attention to Detail
+- Process Improvement
+- Technical Communication
